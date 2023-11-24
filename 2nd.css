@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,300&family=Shadows+Into+Light&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+div.hee{
+    background-color: #964555;
+    display:flex;
+    justify-content: space-between;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 5px;
+}
+
+ul.navy,a{
+    font-family:"Josefin Sans" sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #C3D6DB;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+ul.nav,li,a{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+a:hover {
+    color:rgb(76, 20, 39);
+    transition: .5s;
+}
+
+h1.Maev{
+    font-family:"Shadow Into Light";
+    font-style: oblique;
+    justify-content: space-between;
+    font-size: 20px;
+    padding-top: 15px;
+    color:#F0BBD3
+}
+
+h1.Yel {
+    font-family:"Shadow Into Light";
+    font-style: oblique;
+    justify-content: space-between;
+    font-size: 20px;
+    padding-top: 15px;
+    color:#F0BBD3;
+}
+
+.Hi{
+    display:Flex;
+    align-items:center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top: 10%;
+}
+
+div.me,h1.moon,p.sun{
+    max-width:800px;
+    padding:3%;
+    color:#c85250;
+    padding-left: 100px;
+}
+
+div.me h1.moon{
+    font-size: 38px;
+    font-weight: 606px;
+    line-height: 50px;
+    margin-bottom: 30px;
+}
+
+div.Hello img.eyess{
+    position: absolute;
+    width:80%;
+    max-width:450px;
+    top: 120px;
+    right: 30px;
+
+}
+
+div.Hello img.eyes{
+    position: absolute;
+    width:80%;
+    max-width:450px;
+    top: 150px;
+    right: 50px;
+}
+
+body{
+    background-color:#F0BBD3;
+
+}
+
+.about{
+    padding-left: 20px;
+    color:#0C2D48;
+}
+
+footer{
+    background-color:#0C2D48;
+    padding: 10px;
+    bottom:300px;
+}
+
+li p.Dis {
+    padding-bottom: 50px;
+}
+
